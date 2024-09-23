@@ -1,0 +1,125 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#navbar{
+    background-color: #37393F;
+}
+.navbar-brand img{
+    height: 30px;
+    width: 40px;
+}
+.button{
+    background-color: #6B77E5;
+    border: none;
+    color: white;
+    padding: 10px 20px;
+}
+/* #banner p h1{
+    background: #37393FE8;
+    width: 828px;
+    height: 458px;
+    
+} */
+
+/* .imagebanner{
+    box-shadow: 9px 9px 9px 0px;
+}
+     */
+#options{
+    margin-top: 140px;
+}
+#box{
+    background-color:#F4F4F4;
+ 
+}
+.button2{
+    border: none;
+    background-color: white;
+    color: #6B77E5;
+    padding: 7px 32px;
+}
+#box1{
+    background-color:#6B77E5;
+    
+}
+.button3{
+    background-color:#40DDB6;
+    border: none;
+    padding: 7px 32px;
+}
+.button4{
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    color: #6B77E5;
+}
+.button5{
+    color: white;
+    background-color: #40DDB6;
+    border: none;
+    padding: 10px 95px;
+    text-align: center;
+}
+#box1 strong{
+     color: #40DDB6;
+}
+#footer img {
+    height: 30px;
+    width: 40px;
+}
+#footer{
+    margin-top: 150px;
+    margin-bottom: 130px;
+    background-color: #37393F;
+}
+#footer span{
+    color: #40DDB6;
+}
+.aboutus{
+    color: #40DDB6;
+}
+.button6{
+    background-color:#6B77E5;
+    color: white;
+    border: none;
+    padding: 10px 17px;
+}
+.bgfooter{
+    background-color: #474950;
+    margin-bottom: 20px;
+}
+.button7{
+    border: none;
+    padding: 10px 17px;
+    background-color: white;
+    margin-right: -4px;
+}
+#followfooter{
+    margin-left: 250px;
+    
+}
+#bannerbg{
+    background-color:#37393FE8;
+    width: 650px ;
+    height: 400px;
+}
+#bannerimg{
+    
+    height: 400px; 
+    /* background-position: center; */
+    background-size: cover;
+    margin-right: 200px;
+    margin-left: -20px;
+}
+#bannerbg h1{
+    /* text-align: left; */
+    /* text-align: center; */
+    padding-top: -100px;
+    padding-left: 125px;
+}
+#bannerbg p{
+    padding-left: 125px;
+    padding-top: 100px;
+    padding-bottom: -200px;
+}
